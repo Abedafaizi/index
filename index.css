@@ -6,7 +6,7 @@
    
 }
 .container{
-    width: 100%;
+    width: 90%;
     height: 100vh;
     background-image: url(hero-bg.jpg);
     background-size: cover;
