@@ -502,7 +502,7 @@ justify-content: space-around;
     /* height: 300px; */
 }
 .tita{
-    grid-row: 1/3; 
+    grid-row: 1/4; 
     grid-column: 3/4; 
     /* width: 100px; */
 }
